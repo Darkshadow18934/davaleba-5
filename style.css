@@ -1,0 +1,15 @@
+h1{text-align: center;}
+img{display: block;
+    margin: auto;
+}
+p{text-align: center;}
+nav li{
+    display: inline;
+    margin: 0 15px;
+    color: black;
+  
+}
+nav{
+    background-color: rgb(34, 190, 86);
+}
+nav a{color: rgb(39, 38, 38);}
