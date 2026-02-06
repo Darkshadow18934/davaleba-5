@@ -1,0 +1,25 @@
+img{display: block;
+margin: auto;
+}
+.small-img{
+    width: 200px;
+    border: 2px;
+}
+p{text-align: center;}
+
+nav li{
+    display: inline;
+    margin: 0 200px;
+    
+}
+nav a{
+    color: black;
+}
+body{background-color: pink;}
+div p{text-align: center;}
+h1{text-align: center;}
+h2{text-align: center;}
+.content-box{background-color: white;
+color: black;
+padding: 20px;
+margin: 20px;}
